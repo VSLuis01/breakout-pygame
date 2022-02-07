@@ -1,0 +1,8 @@
+São necessárias as bibliotecas "pygame" e "numpy" para executar o jogo.
+
+Para iniciar o jogo basta clicar em "PLAY"
+
+Para lançar a bola de um click no botão esquerdo do mouse.
+As setas direita(<-) e esquerda(->) movimentam a plataforma.
+Caso perder/ganhar aperta "espaço" para reiniciar.
+Esc pausa o jogo.
